@@ -1,5 +1,8 @@
 _repo: Virginia-of-V-M-Ranch_67046
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67046-h/images/cover.jpg
 creator:
   author:
     agent_name: North, Grace May
@@ -11,6 +14,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/41818
     - https://en.wikipedia.org/wiki/Grace_May_North
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67046#Virginia-of-V-M-Ranch
 gutenberg_issued: '2021-12-30'
 identifiers:
   gutenberg: '67046'
